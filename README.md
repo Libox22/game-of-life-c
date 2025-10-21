@@ -51,10 +51,10 @@ Number of generations: change the while (i < 200) condition.
 Project Structure
 
 
-├── main.c       ## Source code
+├── main.c       # Source code
 
 
-├── README.md    ## Documentation
+├── README.md    # Documentation
 
 ---
 
@@ -64,5 +64,6 @@ https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life -Wikipedia
 
 ✍️ Author: Liborio Mattia Pasqualino
 📅 Year: 2025
+
 
 
